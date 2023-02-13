@@ -3,19 +3,6 @@ public class Conditinails {
 
     public static void main(String[] args) {
 
-        int sayi = 20;
-
-        if (sayi<20){
-          System.out.println("Sayı 20'den küçüktür.");
-        }else if (sayi == 20){
-            System.out.println("Sayı 20'dir");
-        };
-
-        if (sayi<15){
-            System.out.println("Sayı 15'den küçüktür.");
-        };
-
-
         int sayi1 = 20;
         int sayi2 = 25;
         int sayi3 = 222;
